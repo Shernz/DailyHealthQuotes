@@ -1,0 +1,17 @@
+#quote {
+    position: absolute;
+    font-size: 150px;
+    font-weight: 800;
+    top: 50%; 
+}
+
+#author {
+    position: absolute;
+    top: 500px; 
+    left: 500px;
+    bottom: 0px;
+    right: 0px; 
+    font-size: 100px;
+    font-weight: 600;
+    
+}
